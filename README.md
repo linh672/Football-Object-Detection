@@ -14,11 +14,27 @@ Using powerful frameworks like [Ultralytics YOLOv8](https://github.com/ultralyti
 
 ## 📽️ Demo
 
-https://user-images.githubusercontent.com/your-demo-video.mp4  
-*A full match sequence visualizing detection, team classification, and tactical overlays.*
+<p align="center">
+  <img src="assets/player_detection_result.png" alt="1_data_profession_table" width="1000">
+</p>
+
+
+<p align="center">
+  <img src="assets/pitch_result.png" alt="1_data_profession_table" width="1000">
+</p>
+
+
+<p align="center">
+  <img src="assets/voronoi_diagram_result.png" alt="1_data_profession_table" width="1000">
+</p>
+
+<p align="center">
+  <img src="assets/ball_territory_result.png" alt="1_data_profession_table" width="1000">
+</p>
+
+
 
 ---
-
 ## 🔧 Features
 
 - ✅ **Player/ball/referee detection** with YOLOv8 via Ultralytics
