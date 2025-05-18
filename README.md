@@ -1,6 +1,6 @@
 # ⚽ Football Object Detection 
 
-This repository contains a complete pipeline for football (soccer) player and ball detection, tracking, team classification, and tactical analysis using computer vision techniques.
+This repository contains a complete pipeline for football (soccer) player, ball detection and tracking team classification using computer vision techniques.
 
 Using powerful frameworks like [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics), [Supervision](https://github.com/roboflow/supervision) and [Roboflow](https://roboflow.com/), this system enables:
 - Real-time object detection (players, ball, referee, goalkeeper)
